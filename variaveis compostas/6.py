@@ -1,6 +1,3 @@
-nota = []
-n = int(input())
-
-nota.append([int(input) in range(n)])
+nota=([float(x) for x in input().split()]) # receber diversas entradas em uma unica linha
 
 print((sum(nota))-(max(nota)+min(nota)))
