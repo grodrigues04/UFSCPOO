@@ -1,6 +1,6 @@
 from math import log10 
 '''log10 ajuda a calcular quantos digitos de dezena um número tem.
-Assim, consigo determinar quantos zeros preciso colocar na frente dos numeros 
+Assim, consigo determinar quantos zeros preciso colocar na frente dos numeros iniciais
  '''
 
 linha_atual = 1
